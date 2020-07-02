@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.com/blog/</loc>
+    <lastmod>2019-03-27T21:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/blog/2019/03/welcome-to-my-blog/</loc>
+    <lastmod>2019-03-27T21:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/features/</loc>
+    <lastmod>2019-03-19T13:21:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/has/</loc>
+    <lastmod>2019-03-19T13:21:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/more/</loc>
+    <lastmod>2019-03-19T13:21:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/page/</loc>
+    <lastmod>2019-03-19T13:21:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/some/</loc>
+    <lastmod>2019-03-19T13:21:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2019-03-19T13:21:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/features/tags/</loc>
+    <lastmod>2019-03-19T13:21:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/tags/</loc>
+    <lastmod>2019-03-19T13:21:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/this/</loc>
+    <lastmod>2019-03-19T13:21:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/features/two-column-layout/</loc>
+    <lastmod>2019-03-18T11:14:41+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/features/nested-menus/</loc>
+    <lastmod>2019-03-18T11:14:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/features/responsive-design/</loc>
+    <lastmod>2019-03-18T11:14:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/contact/</loc>
+    <lastmod>2019-03-18T10:59:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/also/</loc>
+    <lastmod>2019-02-27T21:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/blog/2019/02/more-blogging/</loc>
+    <lastmod>2019-02-27T21:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/post/</loc>
+    <lastmod>2019-02-27T21:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/more/items-to-show/</loc>
+    <lastmod>2019-02-05T07:51:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/more/the-nested-menus-feature/</loc>
+    <lastmod>2019-02-05T07:51:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/another/</loc>
+    <lastmod>2019-02-05T07:51:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/features/</loc>
+    <lastmod>2019-02-05T07:51:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2019-02-05T07:51:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/more/</loc>
+    <lastmod>2019-02-05T07:51:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/more/some-more-menu/</loc>
+    <lastmod>2019-02-05T07:51:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/features/nested-menus/third-level-1/</loc>
+    <lastmod>2019-02-05T07:51:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/features/nested-menus/third-level-2/</loc>
+    <lastmod>2019-02-05T07:51:49+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/features/nested-menus/third-level-3/</loc>
+    <lastmod>2019-02-05T07:51:49+01:00</lastmod>
+  </url>
+  
+</urlset>
